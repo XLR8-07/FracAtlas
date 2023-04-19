@@ -29,14 +29,14 @@ To start training the files must be arranged in the following folder structure.
     │   ├── dataset                         # Contains the dataset
     |   |   ├── data.yaml                   # Describes the dataset
     |   |   ├── train
-    |   |   |   ├── images                  # comtains all the training images
+    |   |   |   ├── images                  # contains all the training images
     |   |   |   |   └── ... 
-    |   |   |   ├── labels                  # comtains all the training labels
+    |   |   |   ├── labels                  # contains all the training labels
     |   |   |   |   └── ... 
     |   |   ├── Valid
-    |   |   |   ├── images                  # comtains all the validation images
+    |   |   |   ├── images                  # contains all the validation images
     |   |   |   |   └── ... 
-    |   |   |   ├── labels                  # comtains all the validation labels
+    |   |   |   ├── labels                  # contains all the validation labels
     |   |   |   |   └── ... 
     │   └── ...                 
     └── ...                                 # etc.
