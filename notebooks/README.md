@@ -24,8 +24,7 @@ To start training the files must be arranged in the following folder structure.
     ├── ...
     ├── notebooks
     │   ├── Prediction_8s.ipynb
-    │   ├── train_8s_localization.ipynb
-    │   ├── train_8s-seg_segmentation.ipynb
+    │   ├── Train_8s.ipynb
     │   ├── dataset                         # Contains the dataset
     |   |   ├── data.yaml                   # Describes the dataset
     |   |   ├── train
