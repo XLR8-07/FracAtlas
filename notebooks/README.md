@@ -1,4 +1,4 @@
-# Technical validation of FractureAtlas Dataset
+# Technical validation of FracAtlas Dataset
 
 Here, 2 note books `train_8s_localization.ipynb` and `train_8s-seg_Segmentation.ipynb` are used to train 2 models called 'YOLO8s' and 'YOLO8s-seg' respectively. 
 
