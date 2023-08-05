@@ -5,11 +5,11 @@ The majority of the existing X-Ray datasets are either very small in size to be 
 The dataset can be downloaded from [FigShare](https://doi.org/10.6084/m9.figshare.22363012).
 
 ## Code
-There are 2 notebooks in the root folder called 'Train_8s.ipynb' and 'Pred_8s.ipynb'. 'Train_8s.ipynb' is used to train 2 models of 'YOLO8s_seg' and 'YOLO8s' variant targeted toward segementation and localization tasks respectively. 'Pred_8s.ipynb' is used to generate predictions out of the 2 aforementioned models and view the results.
+There are 2 notebooks in the root folder called 'Train_8s.ipynb' and 'Pred_8s.ipynb'. 'Train_8s.ipynb' is used to train 2 models of 'YOLO8s_seg' and 'YOLO8s' variants targeted toward segmentation and localization tasks respectively. 'Pred_8s.ipynb' is used to generate predictions out of the 2 aforementioned models and view the results.
 
 ## Citation
-If [FracAtlas](https://doi.org/10.6084/m9.figshare.22363012) dataset is used in your work, the authors must cite the [original paper]() as follows:
+If [FracAtlas](https://doi.org/10.6084/m9.figshare.22363012) dataset is used in your work, the authors must cite the [original paper](https://rdcu.be/diAK9) as follows:
 ```code
-  bibtext here
+  Abedeen, I., Rahman, M.A., Prottyasha, F.Z. et al. FracAtlas: A Dataset for Fracture Classification, Localization and Segmentation of Musculoskeletal Radiographs. Sci Data 10, 521 (2023). https://doi.org/10.1038/s41597-023-02432-4
 ```
-We also encourage such authors to release their code and models, which will help the community to reproduce experiments and to boost the research in the field of medical imaging.
+We also encourage such authors to release their code and models, which will help the community to reproduce experiments and to boost research in the field of medical imaging.
