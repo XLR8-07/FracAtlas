@@ -10,6 +10,17 @@ There are 2 notebooks in the root folder called 'Train_8s.ipynb' and 'Pred_8s.ip
 ## Citation
 If [FracAtlas](https://doi.org/10.6084/m9.figshare.22363012) dataset is used in your work, the authors must cite the [original paper](https://rdcu.be/diAK9) as follows:
 ```code
-  Abedeen, I., Rahman, M.A., Prottyasha, F.Z. et al. FracAtlas: A Dataset for Fracture Classification, Localization and Segmentation of Musculoskeletal Radiographs. Sci Data 10, 521 (2023). https://doi.org/10.1038/s41597-023-02432-4
+  @article{Abedeen_2023,
+	title        = {{FracAtlas}: A Dataset for Fracture Classification, Localization and Segmentation of Musculoskeletal Radiographs},
+	author       = {Iftekharul Abedeen and Md. Ashiqur Rahman and Fatema Zohra Prottyasha and Tasnim Ahmed and Tareque Mohmud Chowdhury and Swakkhar Shatabda},
+	year         = 2023,
+	month        = {aug},
+	journal      = {Scientific Data},
+	publisher    = {Springer Science and Business Media {LLC}},
+	volume       = 10,
+	number       = 1,
+	doi          = {10.1038/s41597-023-02432-4},
+	url          = {https://doi.org/10.1038%2Fs41597-023-02432-4}
+}
 ```
 We also encourage such authors to release their code and models, which will help the community to reproduce experiments and to boost research in the field of medical imaging.
